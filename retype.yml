@@ -30,7 +30,7 @@ links:
     target: blank
 
 footer:
-  copyright: © Copyright {{ year }}. [Object.NET Inc.](https://object.net/) All rights reserved.
+  copyright: © Copyright {{ year }}. [CraftedLands Network](https://craftedlands.net) All rights reserved.
   links:
     - text: About
       link: about.md
