@@ -1,0 +1,45 @@
+{
+  "_from": "retypeapp",
+  "_id": "retypeapp@1.8.0",
+  "_inBundle": false,
+  "_integrity": "sha512-1phzjqRZvDUm7ytmLI2GaV+afzF8Nr0jxT2UePuoea5fGiHR8H4pxk+5BwozxOcN4fb+3R9QrlnQTJ4dM+q5mQ==",
+  "_location": "/retypeapp",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "retypeapp",
+    "name": "retypeapp",
+    "escapedName": "retypeapp",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/retypeapp/-/retypeapp-1.8.0.tgz",
+  "_shasum": "8a09e98572bfb6a1f96ec994bb48eef8906374e8",
+  "_spec": "retypeapp",
+  "_where": "C:\\Users\\Rory Neill",
+  "author": {
+    "name": "Object.NET, Inc"
+  },
+  "bin": {
+    "retype": "retype.js"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Retype CLI.",
+  "keywords": [
+    "documentation",
+    "api docs"
+  ],
+  "license": "See LICENSE IN LICENSE",
+  "main": "retype.js",
+  "name": "retypeapp",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.8.0"
+}
